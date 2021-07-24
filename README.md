@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tiktostarting
 - 👀 I’m interested in anything
-- 🌱 I’m currently learning golang, javascript
-- 💞️ I’m looking to collaborate on project web
+- 🌱 I’m currently learning golang, javascript, and Java 
+- 💞️ I’m looking to collaborate on project web and Android
 - 📫 How to reach me direct message to me
 
 <!---
